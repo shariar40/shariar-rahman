@@ -8,7 +8,7 @@ I'm doing Bachelor of Science in CSE. I love doing code with Java and also learn
 
 Skills: Java / C++ / SQL
 
-- 🌱 I’m currently learning Advance Java and Android Development. I'm also learning Database.  
+- 🌱 I’m learning Advance Java and Android Development. I'm also learning Database.  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shariar40)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Shariar Rahman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Shahriar Rahman)  
