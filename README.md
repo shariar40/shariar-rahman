@@ -1,16 +1,15 @@
-### Hi there 👋
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shariar40)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Shariar Rahman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Shahriar Rahman) 
 
-<!--
-**shariar40/shariar40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Shariar Rahman.
+#### [Android Developer]
+![[Android Developer]](https://media.licdn.com/dms/image/D5603AQGK8Ev9iGQ85w/profile-displayphoto-shrink_800_800/0/1672241244794?e=1679529600&v=beta&t=7jdBgWNAs3QnRE7x6Rk-Tx-9brXX_hrTWCAigAiwVoI)
 
-Here are some ideas to get you started:
+I'm doing Bachelor of Science in CSE. I love doing code with Java and also learned C++. My goal is to be an expert Android Developer. I'm also interested in cybersecurity. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Java / C++ / SQL
+
+- 🌱 I’m currently learning Advance Java and Android Development. I'm also learning Database.  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shariar40)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Shariar Rahman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Shahriar Rahman)  
+
